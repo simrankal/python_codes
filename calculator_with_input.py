@@ -1,0 +1,12 @@
+#input number or typecasting calculator
+a=input("enter ur name : ")
+print(type(a))
+x=input("enter the value of x: ")
+z=input("enter the value of z: ")
+y=int(x)
+b=int(z)
+print("the value of " "c","+","z","is:", y+b)
+print("the value of " "c","-","z","is:", y-b)
+print("the value of " "c","*","z","is:", y*b)
+print("the value of " "c","%","z","is:", y%b)
+print("the value of " "c","/","z","is:", y/b)
